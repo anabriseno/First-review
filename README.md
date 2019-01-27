@@ -1,13 +1,13 @@
 # {Code Review}
 
-#### _{Code review of everything worked on the first 4 weeks at Epicodus}
-{Jan 2019}
+#### Code review of first 4 weeks at Epicodus
+Jan 2019
 
-#### By _**{Ana Margarita Briseno}**_
+#### By **Ana Margarita Briseno**
 
 ## Description
 
-_{List of projects and about me section, including an image}_
+A webpage, built with HTML, CSS, and Bootstrap, containing a list of projects, about me section and an image.
 
 ## Setup/Installation Requirements
 
@@ -16,14 +16,14 @@ _{List of projects and about me section, including an image}_
 
 ## Known Bugs
 
-_{None so far!}_
+None so far!
 
 ## Support and contact details
 
-_{Please contact if you run into any issues or have questions, ideas or concerns}_
+Please contact if you run into any issues or have questions, ideas or concerns.
 
 ## Technologies Used
 
-_{This used HTML, CSS and Bootstrap}_
+This used HTML, CSS and Bootstrap
 
 Copyright (c) 2015 **_{Ana Margarita Briseno}_**
