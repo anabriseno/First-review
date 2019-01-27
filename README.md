@@ -1,4 +1,4 @@
-# {Code Review}
+# Code Review
 
 #### Code review of first 4 weeks at Epicodus
 Jan 2019
@@ -26,4 +26,4 @@ Please contact if you run into any issues or have questions, ideas or concerns.
 
 This used HTML, CSS and Bootstrap
 
-Copyright (c) 2015 **_{Ana Margarita Briseno}_**
+Copyright (c) 2015 **Ana Margarita Briseno**
